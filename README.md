@@ -2,16 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Welcome!&fontSize=90&fontAlignY=40&fontColor=C8B6E2&color=495C83&desc=Dev-Will's GitHub&descAlign=80" />
 
   <p>
-    <br>😀H͏i͏, I͏'m͏ W͏i͏l͏l͏.</br>
-    <br>✨I͏'m͏ i͏n͏t͏e͏r͏e͏s͏t͏e͏d͏ i͏n͏ W͏e͏b͏ p͏r͏o͏g͏r͏a͏m͏m͏i͏n͏g͏ a͏n͏d͏ A͏I͏/M͏L͏.</br>
+    <br>😀 H͏i͏, I͏'m͏ W͏i͏l͏l͏.</br>
+    <br>✨ I͏'m͏ i͏n͏t͏e͏r͏e͏s͏t͏e͏d͏ i͏n͏ W͏e͏b͏ p͏r͏o͏g͏r͏a͏m͏m͏i͏n͏g͏ a͏n͏d͏ A͏I͏/M͏L͏.</br>
+    <br>🌱 I’m currently learning AI/ML.</br>
   </p>
   <br>
-  <p>✏𝒮𝓉𝒶𝓎 𝐻𝓊𝓃𝑔𝓇𝓎 𝒮𝓉𝒶𝓎 𝐹𝑜𝑜𝓁𝒾𝓈𝒽✏</p>
+  <br>
+  <div align='center'>
+  <b><h3>✏sᴛᴀʏ ʜᴜɴɢʀʏ, sᴛᴀʏ ғᴏᴏʟɪsʜ✏</h3></b>
+  </div>
   <br>
   <div align=center><h1>📚 STACKS</h1></div>
   <div>
   <br>
-    <li>Front-end : <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img     src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> </li>
+    <li>Front-end :  <img     src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> </li>
     <li>Back-end : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </li>
     <li>Algorithm and Other Project : <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  </li>
   <br>
