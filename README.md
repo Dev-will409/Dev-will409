@@ -1,5 +1,5 @@
 <div> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Welcome!&fontSize=90&fontAlignY=40&fontColor=ad82cf&color=282d3e&desc=Dev-Will's GitHub&descAlign=80" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=250&section=header&text=Welcome!&fontSize=90&fontAlignY=50&fontColor=ad82cf&color=282d3e&desc=Dev-Will's GitHub&descAlign=80&descAlignY=80" />
 
   <p>
     <br>😀 H͏i͏, I͏'m͏ W͏i͏l͏l͏.</br>
