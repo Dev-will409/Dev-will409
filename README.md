@@ -3,8 +3,7 @@
 
   <p>
     <br>😀 H͏i͏, I͏'m͏ W͏i͏l͏l͏.</br>
-    <br>✨ I͏'m͏ i͏n͏t͏e͏r͏e͏s͏t͏e͏d͏ i͏n͏ W͏e͏b͏ p͏r͏o͏g͏r͏a͏m͏m͏i͏n͏g͏ a͏n͏d͏ A͏I͏/M͏L͏.</br>
-    <br>🌱 I’m currently learning AI/ML.</br>
+    <br>✨ I͏'m͏ i͏n͏t͏e͏r͏e͏s͏t͏e͏d͏ i͏n͏ W͏e͏b͏ p͏r͏o͏g͏r͏a͏m͏m͏i͏n͏g͏.</br>
   </p>
   <br>
   <br>
